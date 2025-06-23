@@ -10,9 +10,9 @@ This repository contains my solutions to LeetCode problems, implemented in C++.
 - Problems are solved using concepts like recursion, iteration, and (in the future) dynamic programming.
 
 ## Problems Solved
-1. **[509. Fibonacci Number](Problems/509_Fibonacci_Number)**: Recursive solution implemented; iterative and DP solutions to be added.
-2. **[231. Power of Two](Problems/231_Power_of_Two)**: Solved using iterative (while loop) and recursive approaches.
-3. **[342. Power of Four](Problems/342_Power_of_Four)**: Adapted solutions from Power of Two, using iterative and recursive approaches.
+1. **[509. Fibonacci Number](LeetCode-Solutions/Problems/509_Fibonacci_Number)**: Recursive solution implemented; iterative and DP solutions to be added.
+2. **[231. Power of Two](LeetCode-Solutions/Problems/231_Power_of_Two)**: Solved using iterative (while loop) and recursive approaches.
+3. **[342. Power of Four](LeetCode-Solutions/Problems/342_Power_of_Four)**: Adapted solutions from Power of Two, using iterative and recursive approaches.
 
 ## How to Use
 - Navigate to the `Problems` directory to find solutions for specific problems.
